@@ -1,39 +1,45 @@
 ---
 layout: home
-title: Just the Class
+title: Welcome to CP 330: Edge AI at IISC.
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Edge AI
 ---
 
-# Just the Class
+# About
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+This course provides students with the fundamentals of edge AI and hands-on experience in designing end-to-end AI systems for resource-constrained computing devices, such as microcontrollers It aims to equip students with knowledge of hardware systems and AI model optimization techniques and tools for IoT edge devices. After completing the course, students will have the skills to implement AI models, such as computer vision, on embedded/edge devices for various real-world applications, including smart cities, sustainability, healthcare, and agriculture. The topics to be covered in this course include:
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+- Introduction to Edge AI
+- ML/AI Algorithms and Computer Vision Fundamentals
+- Edge AI Hardware and Accelerators
+- Edge AI Software Frameworks and Libraries
+- Model Optimization and Pruning Techniques and Tools
+- Deployment of Edge AI Systems and Case Studies
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+### Prerequisites
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+Proficiency in Python programming is essential, while C programming and a basic understanding of AI/ML, microcontrollers, and IoT systems would be a plus.
 
-## Getting Started
+### Grading
+- 3 programming assignments (45%)
+- 3 quizzes (15%)
+- Course project (40%)
 
-Getting started with Just the Class is simple.
+### Text books and references
+Textbooks/References
+ - TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers (2020) by Pete Warden and Daniel Situnayake TinyML Cookbook (2022) by Gian Marco Iodice
+ - AI at the Edge: Solving Real-World Problems with Embedded Machine Learning (2022) by Daniel Situnayake and Jenny Plunkett.
+ - Deep Learning on Microcontrollers: Learn how to develop embedded AI applications using TinyML (2023) by Atul Krishna Gupta and Dr. Siva Prasad Nandyala
+ - TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers (2020) by Pete Warden and Daniel Situnayake
+ - Hands-on TinyML: Harness the power of Machine Learning on the edge devices (2023) by Rohan Banerjee
+ - Dive Into Deep Learning (2023), Aston Zhang, Mu Li, Alexander J. Smola, Zachary Lipton.
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
-
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
-
-### Local development environment
-
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+### Similar courses: 
+1.	NVIDIA - Edge AI and Robotics Teaching Kit
+2.	Intel - AI on the Edge with Computer Vision 
+3.	TinyML and Efficient Deep Learning Computing (MIT)
+4.	ESE3600: Tiny Machine Learning (UPenn)  
+5.	edX tinyML Specialization (Harvard University)
