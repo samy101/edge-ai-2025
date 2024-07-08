@@ -17,8 +17,8 @@ title: Edge AI
 tagline: Edge AI course
 description: Edge AI course website.
 author: Pandarasamy Arjunan
-#baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-#url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/edge-ai' # the subpath of your site, e.g. /blog
+url: 'https://samy101.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
