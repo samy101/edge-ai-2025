@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to CP 330: Edge AI at IISC.
+title: Welcome to the Edge AI at Indian Institute of Science.
 nav_exclude: true
 permalink: /:path/
 seo:
